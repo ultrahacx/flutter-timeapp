@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "954001551486",
+    "firebase_url": "https://fluff-c2944.firebaseio.com",
+    "project_id": "fluff-c2944",
+    "storage_bucket": "fluff-c2944.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954001551486:android:aa41a5e3de6f934cbd682f",
+        "android_client_info": {
+          "package_name": "com.anuragverma.fluff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954001551486-ai1osr9al1nrbcbiftunq8miio7215br.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anuragverma.fluff",
+            "certificate_hash": "2cbfc2c385ba72ab22c3d1fc444c583e462160e4"
+          }
+        },
+        {
+          "client_id": "954001551486-jlgv8mo02mj1d8a1i9akvrb1app6lt1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASaEDrBdyIhHICRxdVrPyT6tLTjp8aq-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954001551486-jlgv8mo02mj1d8a1i9akvrb1app6lt1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
